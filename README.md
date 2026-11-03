@@ -81,7 +81,7 @@ This structure improves code organization, maintainability, and scalability.
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/mohamed3hussin/e_commerce_app.git
    ```
 
 2. Navigate to the project directory:
